@@ -20,3 +20,9 @@ https://www.youtube.com/watch?v=A4FXwVMnf_c
 
 Check diagram folder for diagrams
 
+This was the starting point for the project that has evolved enormously.
+Current [Github](https://github.com/AJMartel/FPS_Bomb_Simulator) repo has been moved.
+
+Very little of the original code remains, although I kept the original layout of the actual game play.
+The new device is multi-lingual and as of this update has 5 game modes.
+Follow the project on 3DFabXYZ.com
